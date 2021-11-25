@@ -40,6 +40,8 @@ Estamos constantemente actualizando y mejorando nuestro proyecto.
 - 
 ## ⚡️ Como reportar correctamente ⚡️
 
+🔴[Reportar ahora](https://github.com/ClownedDev/WoWGerrero/issues)🔴
+
 - Titulo corto y concreto
 - Nombre del PJ 
 - Selecionar uno de los siguientes: Misiones, echizos, talentos, items, clase, raza, banda, masmorra, creaturas, objetos
