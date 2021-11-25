@@ -37,7 +37,7 @@ Estamos constantemente actualizando y mejorando nuestro proyecto.
 
 - [Clowned](https://www.facebook.com/happydaysgone/)
 - [Livane](https://www.facebook.com/vanessa.uruchi)
-- 
+
 ## ⚡️ Como reportar correctamente ⚡️
 
 🔴[Reportar ahora](https://github.com/ClownedDev/WoWGerrero/issues)🔴
