@@ -43,12 +43,12 @@ Estamos constantemente actualizando y mejorando nuestro proyecto.
 🔴[Reportar ahora](https://github.com/ClownedDev/WoWGerrero/issues)🔴
 
 - Titulo corto y concreto
-- Nombre del PJ 
-- Selecionar uno de los siguientes: Misiones, echizos, talentos, items, clase, raza, banda, masmorra, creaturas, objetos
-- Descripción del fallo lo mas detallado posible y como tendria que trabajar de forma correcta
+- Nombre del PJ
+- Seleccionar uno de los siguientes: Misiones, hechizos, talentos, ítems, clase, raza, banda, mazmorra, creaturas, objetos
+- Descripción del fallo lo mas detallado posible y como tendría que trabajar de forma correcta
 - Video detallando el fallo
 - Imagen para detallar aun mas
-- Links de wowhead u otra web tipo wiki de como tendria que funcionar lo reportado
+- Links de wowhead u otra web tipo wiki de como tendría que funcionar lo reportado
 
 ## Apoyo al area C++
 
