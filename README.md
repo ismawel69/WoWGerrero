@@ -47,7 +47,7 @@ Estamos constantemente actualizando y mejorando nuestro proyecto.
 - Seleccionar uno de los siguientes: Misiones, hechizos, talentos, ítems, clase, raza, banda, mazmorra, creaturas, objetos
 - Descripción del fallo lo mas detallado posible y como tendría que trabajar de forma correcta
 - Video detallando el fallo
-- Imagen para detallar aun mas
+- Imagen para detallar aun mas.
 - Links de wowhead u otra web tipo wiki de como tendría que funcionar lo reportado.
 
 ## Apoyo al area C++
