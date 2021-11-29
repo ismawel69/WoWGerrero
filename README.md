@@ -48,7 +48,13 @@ Estamos constantemente actualizando y mejorando nuestro proyecto.
 - Descripción del fallo lo mas detallado posible y como tendría que trabajar de forma correcta
 - Video detallando el fallo
 - Imagen para detallar aun mas.
+- Video para detallar aun mas un correcto funcionamiento o una posible falla
 - Links de wowhead u otra web tipo wiki de como tendría que funcionar lo reportado.
+<p align="center">
+  <a href="https://es.wowhead.com">WoWHead</a>
+  •
+  <a href="https://cata-twinhead.twinstar.cz">TwinHead</a>
+</p>
 
 ## Apoyo al area C++
 
