@@ -29,3 +29,4 @@ Fix Obliterate ahora genera correctamente sus runas.
 Fix Pestilencia genera de forma correcta sus runas.
 Fix embate de escudo con el warr ya saca un daño mas acorde y no sobre exagerado.
 Fix golpe pirulento, ahora ya genera de forma correcta las runas de muerte.
+Fix las mecánica de disipar magia, ahora ya limpia a aliados y entra en combate al intentar limpiar a enemigos de forma normal.
