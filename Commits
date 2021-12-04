@@ -32,3 +32,4 @@ Fix golpe pirulento, ahora ya genera de forma correcta las runas de muerte.
 Fix las mecánica de disipar magia, ahora ya limpia a aliados y entra en combate al intentar limpiar a enemigos de forma normal.
 Fix bufos al level 85 por el comando buff en bg, ahora y no se quedan.
 Fix Flecha negra ahora quita el daño de sombra de forma correcta.
+Se agrego sistema de muertes en bg con efectos
