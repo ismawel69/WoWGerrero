@@ -42,3 +42,4 @@ Fix Veredicto del templario ahora ya escala de forma correcta el daño, se traba
 Fix Exorcismo ahora ya escala correctamente el daño.
 Fix auras dentro de las BG.
 Fix forma de vuelo druida spells ranks acomodadas de forma correcta.
+Fix forma de vuelo druida, ahora ya no cae hasta el suelo si te quitas la forma y la pones nuevamente.
