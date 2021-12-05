@@ -34,3 +34,4 @@ Fix bufos al level 85 por el comando buff en bg, ahora y no se quedan.
 Fix Flecha negra ahora quita el daño de sombra de forma correcta.
 Se agrego sistema de muertes en bg con efectos
 Fix habilidad reponerse de picaros, ahora cura con valores correctos.
+Fix golpe de cruzado paladin, ahora ya genera un daño correcto de acuerdo a lo establecido en su descripcion.
