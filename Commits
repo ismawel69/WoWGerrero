@@ -38,3 +38,4 @@ Fix golpe de cruzado paladin, ahora ya genera un daño correcto de acuerdo a lo 
 Fix desteyo de luz ahora ya cura en valores correctos.
 Fix martillo de cólera, ahora ya quita el daño correspondiente y escalado.
 Fix Palabra de gloria ahora ya cura valores correctos.
+Fix Veredicto del templario ahora ya escala de forma correcta el daño, se trabajo en sus formulas de como toma el % de daño.
