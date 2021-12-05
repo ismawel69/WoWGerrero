@@ -36,3 +36,4 @@ Se agrego sistema de muertes en bg con efectos
 Fix habilidad reponerse de picaros, ahora cura con valores correctos.
 Fix golpe de cruzado paladin, ahora ya genera un daño correcto de acuerdo a lo establecido en su descripcion.
 Fix desteyo de luz ahora ya cura en valores correctos.
+Fix martillo de cólera, ahora ya quita el daño correspondiente y escalado.
