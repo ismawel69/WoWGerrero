@@ -51,3 +51,4 @@ Fix mision "¡Por todos los ciervos!" los ciervos no se detienen y te siguen has
 Fix mision "Lycanthoth el corruptor" Ahora ya llama al lobo blanco al morir.
 Fix talento trueno ensordecedor, ahora ya te regenera el mana de forma correcta.
 Fix mision "El Círculo de Sangre: Dedorroto" ahora ya se invoca correctamente a la creatura en lugar de estar espameada antes de.
+Se cambio la phase de creaturas visibles en prueba de cruzado para que sea mas a modo blizzlike.
