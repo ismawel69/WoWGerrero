@@ -55,3 +55,4 @@ Se cambio la phase de creaturas visibles en prueba de cruzado para que sea mas a
 Se reabrio "Prueba del Campeón" ahora con nuevos cheks y smarts para las monturas y evitar bugeos de vida en players.
 Se aumento el maximo de puntos de valor a 4k.
 Fix creaturas que causaban caidas al no tener target script.
+Fix en secuencia Mysql que insertaba duplicando en lugar de reemplazar la data generando caidas.
