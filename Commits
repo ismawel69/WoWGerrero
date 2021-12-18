@@ -62,3 +62,4 @@ Fix desborde en la tabla characters que causaba caidas.
 Fix entrenadores con flag erroneo causando bucles y caidas.
 Borrado de auras duplicadas en creaturas de mundo generando bucles.
 Fix mecanicas de boss Morchok en DS, ahora trabaja en igualdad al oficial.
+Fix al terminar el encuentro con Yorsahj, en igualdad al oficial.
