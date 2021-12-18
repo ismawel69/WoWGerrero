@@ -61,3 +61,4 @@ Fix barrera de mana en sinestra, ahora ya cumple su mecanica a modo blizzlike.
 Fix desborde en la tabla characters que causaba caidas.
 Fix entrenadores con flag erroneo causando bucles y caidas.
 Borrado de auras duplicadas en creaturas de mundo generando bucles.
+Fix mecanicas de boss Morchok en DS, ahora trabaja en igualdad al oficial.
