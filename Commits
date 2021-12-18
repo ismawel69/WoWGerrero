@@ -56,3 +56,4 @@ Se reabrio "Prueba del Campeón" ahora con nuevos cheks y smarts para las montur
 Se aumento el maximo de puntos de valor a 4k.
 Fix creaturas que causaban caidas al no tener target script.
 Fix en secuencia Mysql que insertaba duplicando en lugar de reemplazar la data generando caidas.
+Fix mana de sinestra al iniciar el encuentro.
