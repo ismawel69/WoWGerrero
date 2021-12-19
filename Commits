@@ -73,3 +73,4 @@ Se reabrio la estancia de Onyxia.
 Se reacomodaron las mecanicas de onyxia, aun falta un 5% en el vuelo pero ya es totalmente jugable.
 Fix auras duplicadas que generan caidas [3 en total]
 Fix en nuevo desborde de datos en la tabla characters .
+Fix en creaturas de mundo con flags de entrenadores cuando no lo eran causando caidas.
