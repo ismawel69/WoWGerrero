@@ -77,3 +77,4 @@ Fix en creaturas de mundo con flags de entrenadores cuando no lo eran causando c
 Nuevo Smart Script para "Kristoff Manheim" BlizzLike limpio en su totalidad.
 Se eliminaron 11 auras duplicadas en creaturas de mundo causantes de caidas por el spam.
 Fix hezhizo "Reponerse" en clase Picaro con valores correctos en la formula del healing generado en modo BlizzLike.
+Se acomodo el gossip y las misiones que terminan y inician en el npc "Archidruida Hamuul".
