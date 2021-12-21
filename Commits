@@ -80,3 +80,4 @@ Fix hezhizo "Reponerse" en clase Picaro con valores correctos en la formula del 
 Se acomodo el gossip y las misiones que terminan y inician en el npc "Archidruida Hamuul".
 Se agrego 5 lineas para evitar el spam de consola con MoveSpline causante de delay ingame.
 Fix al morir ya no se bugea las monturas.
+Nuevo update para el fix del desborde en pvpstats bg ahora ya finalizado sin causar errores en la consola.
