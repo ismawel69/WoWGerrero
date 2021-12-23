@@ -100,3 +100,4 @@ El fragor del trueno terminado, movement, spawn y mecanicas  [ESTANCIA CERRADA].
 Se reabre ULDUAR fase BETA, requiere reportes en tiempo para terminar de fixear detalles y mecánicas.
 Fix mmaps, cargar ignorando la posicion Z.
 Se agrego 2 cheks para cancelar un casteo fallido del cargar para evitar que traspase suelo o paredes y termine en el vacío.
+Se agrego otro chek mas para evitar que caigan al vacio al usar cargar bajo el agua.
