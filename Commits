@@ -98,3 +98,4 @@ RompeCraneos verificado y habilitado Ulduar  [ESTANCIA CERRADA].
 Fix las camaras del invierno, movements, mecanicas ulduar   [ESTANCIA CERRADA].
 El fragor del trueno terminado, movement, spawn y mecanicas  [ESTANCIA CERRADA].
 Se reabre ULDUAR fase BETA, requiere reportes en tiempo para terminar de fixear detalles y mecánicas.
+Fix mmaps, cargar ignorando la posicion Z.
