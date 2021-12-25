@@ -113,3 +113,4 @@ Fix loot de creatura "Soldado terráneo" en ds.
 fix loot de creatura "Destructor terráneo" en ds.
 Fix loot de creatura "Señor de magma" en FL.
 Fix loot de creatura "Patriarca tortuga de fuego" en FL.
+Se reestructuro todo el loot de mundo en general a modo BlizzLike, sin perder el toque de drop variado y relativamente abundante.
