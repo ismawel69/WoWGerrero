@@ -105,3 +105,4 @@ Se Corregir el algoritmo de redundancia de la altura del agua.
 Se recalculo de mejor manera el PathFinding para pasarlo a modo BlizzLike.
 Fix mision "Una espada de Campeón" ahora ya completa de forma normal.
 Fix mision "Desprevenidos" Ya se puede completar matando los adds.
+Fix Posición Z en spells como "cargar" del warrior y en posición de el despawn de los Bots en mazmorras.
