@@ -103,3 +103,4 @@ Se agrego 2 cheks para cancelar un casteo fallido del cargar para evitar que tra
 Se agrego otro chek mas para evitar que caigan al vacio al usar cargar bajo el agua.
 Se Corregir el algoritmo de redundancia de la altura del agua.
 Se recalculo de mejor manera el PathFinding para pasarlo a modo BlizzLike.
+Fix mision "Una espada de Campeón" ahora ya completa de forma normal.
