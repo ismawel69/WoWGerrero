@@ -1,3 +1,4 @@
 Fix mecánicas y respawn del boss Alizabal.
 Fix flag erroneo de "Magatha Tótem Siniestro" causante de spam de error en consola.
 Fix flag erroneo de "Colonel Troteman" ya no genera mas bucles por spam.
+Fix en el cambio de mapa al usar el portal a "Peninsula de tol barad" ahora ya no podrán llegar allí los druidas con su forma de vuelo.
