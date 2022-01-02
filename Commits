@@ -139,3 +139,4 @@ Fix loot "Alizabal"
 Fix menu para ingenieros del npc "kablamm lanzalejos"
 Se reorganizaron 46 npc de Orgrimmar que se iban para el vacío al acercarse, teniendo una imagen mas blizzlike de la ciudad.
 Se eliminaron brutos de orgrimmar duplicados.
+Fix revivir mascota junto al jugador luego de morir en bg, ahora ya se carga la data del jugador en la pet sin generar el bug visual de pet viva cuando esta muerta.
