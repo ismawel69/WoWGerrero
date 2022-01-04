@@ -3,3 +3,4 @@ Fix flag erroneo de "Magatha Tótem Siniestro" causante de spam de error en cons
 Fix flag erroneo de "Colonel Troteman" ya no genera mas bucles por spam.
 Fix en el cambio de mapa al usar el portal a "Peninsula de tol barad" ahora ya no podrán llegar allí los druidas con su forma de vuelo.
 Fix en requerimientos de mazmorras y bandas, se agregaron nuevos cheks en la función  de accesos a heroicas de 5 n/h
+Rewrite cofres en ulduar.
