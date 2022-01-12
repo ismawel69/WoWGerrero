@@ -27,3 +27,4 @@ Fix quest  [Probando la trampa] Ahora la creatura ya te ataca desde el inicio pa
 Fix desborde en la db characters en sentencia insert soulbound.
 Fix misión "El santuario no debe caer" mecánicas y diálogos BlizzLike.
 Fix misión "A vuelo de pájaro" ahora ya cumple su mecánica y se quita la forma de vuelo al terminar.
+Fix en vida de Arthas dentro de la estancia de La Matanza de stratholme.
