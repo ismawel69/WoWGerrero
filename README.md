@@ -10,7 +10,7 @@
 
 <p align="center">
   <a href="https://discord.gg/92YfFgZRz9">
-    <img src="https://discordapp.com/api/guilds/850392865845936178/widget.png?style=shield" alt="Discord Server">
+    <img src="https://discordapp.com/api/guilds/902324352337469440/widget.png?style=shield" alt="Discord Server">
   </a>
 </p>
 
